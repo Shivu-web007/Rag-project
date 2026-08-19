@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "query": "What is the employee onboarding process?",
+    "latency_sec": 16.454,
+    "unique_contexts": 2,
+    "citations_found": 2,
+    "top_rerank_score": 4.512883186340332,
+    "status": "SUCCESS"
+  },
+  {
+    "id": 2,
+    "query": "What documents are required for background verification?",
+    "latency_sec": 13.325,
+    "unique_contexts": 2,
+    "citations_found": 2,
+    "top_rerank_score": 1.857083797454834,
+    "status": "SUCCESS"
+  },
+  {
+    "id": 3,
+    "query": "How are IT assets allocated during onboarding?",
+    "latency_sec": 14.085,
+    "unique_contexts": 2,
+    "citations_found": 2,
+    "top_rerank_score": -5.335294723510742,
+    "status": "SUCCESS"
+  },
+  {
+    "id": 4,
+    "query": "What is the annual leave policy?",
+    "latency_sec": 12.994,
+    "unique_contexts": 2,
+    "citations_found": 2,
+    "top_rerank_score": -11.34249496459961,
+    "status": "SUCCESS"
+  },
+  {
+    "id": 5,
+    "query": "What are the rules for probation period?",
+    "latency_sec": 13.102,
+    "unique_contexts": 2,
+    "citations_found": 2,
+    "top_rerank_score": -11.283714294433594,
+    "status": "SUCCESS"
+  },
+  {
+    "id": 6,
+    "query": "What is Stage-1 retrieval in this RAG system?",
+    "latency_sec": 13.404,
+    "unique_contexts": 2,
+    "citations_found": 2,
+    "top_rerank_score": 5.003661632537842,
+    "status": "SUCCESS"
+  },
+  {
+    "id": 7,
+    "query": "How does CrossEncoder reranking work in Stage-2?",
+    "latency_sec": 13.319,
+    "unique_contexts": 2,
+    "citations_found": 2,
+    "top_rerank_score": -10.92375659942627,
+    "status": "SUCCESS"
+  },
+  {
+    "id": 8,
+    "query": "What vector database is used for storing embeddings?",
+    "latency_sec": 13.012,
+    "unique_contexts": 2,
+    "citations_found": 2,
+    "top_rerank_score": -10.666925430297852,
+    "status": "SUCCESS"
+  },
+  {
+    "id": 9,
+    "query": "How are duplicate chunks deduplicated?",
+    "latency_sec": 13.175,
+    "unique_contexts": 2,
+    "citations_found": 2,
+    "top_rerank_score": -11.384523391723633,
+    "status": "SUCCESS"
+  },
+  {
+    "id": 10,
+    "query": "What embedding model is used for semantic search?",
+    "latency_sec": 12.941,
+    "unique_contexts": 2,
+    "citations_found": 2,
+    "top_rerank_score": -11.030485153198242,
+    "status": "SUCCESS"
+  },
+  {
+    "id": 11,
+    "query": "How are inline citations formatted in the prompt?",
+    "latency_sec": 13.149,
+    "unique_contexts": 2,
+    "citations_found": 2,
+    "top_rerank_score": -11.28707504272461,
+    "status": "SUCCESS"
+  },
+  {
+    "id": 12,
+    "query": "What happens if context does not contain the answer?",
+    "latency_sec": 12.913,
+    "unique_contexts": 2,
+    "citations_found": 2,
+    "top_rerank_score": -11.303699493408203,
+    "status": "SUCCESS"
+  },
+  {
+    "id": 13,
+    "query": "How does the system prevent LLM hallucinations?",
+    "latency_sec": 13.564,
+    "unique_contexts": 2,
+    "citations_found": 2,
+    "top_rerank_score": -11.199792861938477,
+    "status": "SUCCESS"
+  },
+  {
+    "id": 14,
+    "query": "What metadata is stored in the citation audit log?",
+    "latency_sec": 13.601,
+    "unique_contexts": 2,
+    "citations_found": 2,
+    "top_rerank_score": -11.031845092773438,
+    "status": "SUCCESS"
+  },
+  {
+    "id": 15,
+    "query": "What is the default top_k setting for Stage-1 vs Stage-2?",
+    "latency_sec": 13.245,
+    "unique_contexts": 2,
+    "citations_found": 2,
+    "top_rerank_score": -9.140985488891602,
+    "status": "SUCCESS"
+  },
+  {
+    "id": 16,
+    "query": "   ",
+    "latency_sec": 0.0,
+    "unique_contexts": 0,
+    "citations_found": 0,
+    "top_rerank_score": "N/A",
+    "status": "HANDLED_EDGE_CASE"
+  },
+  {
+    "id": 17,
+    "query": "XYZ999_Unrelated_Quantum_Physics_Term",
+    "latency_sec": 13.131,
+    "unique_contexts": 2,
+    "citations_found": 2,
+    "top_rerank_score": -11.459482192993164,
+    "status": "SUCCESS"
+  },
+  {
+    "id": 18,
+    "query": "Tell me about office cafeteria menu and lunch timing",
+    "latency_sec": 13.238,
+    "unique_contexts": 2,
+    "citations_found": 2,
+    "top_rerank_score": -11.322951316833496,
+    "status": "SUCCESS"
+  },
+  {
+    "id": 19,
+    "query": "How do I apply for maternity leave?",
+    "latency_sec": 13.491,
+    "unique_contexts": 2,
+    "citations_found": 2,
+    "top_rerank_score": -11.078287124633789,
+    "status": "SUCCESS"
+  },
+  {
+    "id": 20,
+    "query": "Who is the CEO of the company?",
+    "latency_sec": 13.378,
+    "unique_contexts": 2,
+    "citations_found": 2,
+    "top_rerank_score": -11.153940200805664,
+    "status": "SUCCESS"
+  }
+]
