@@ -1,0 +1,2 @@
+
+print("RAG Project Started")

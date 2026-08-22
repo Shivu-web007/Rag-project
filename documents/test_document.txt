@@ -1,0 +1,17 @@
+Employee Onboarding Process
+
+1. Employee submits the required documents.
+2. HR verifies the employee information.
+3. Background verification is completed.
+4. IT creates the employee account.
+5. The employee attends the onboarding session.
+
+Leave Policy
+
+Employees are eligible for paid leave according to company policy.
+Leave requests must be submitted to the manager for approval.
+The manager reviews and approves the leave request.
+
+IT Support
+
+Employees can contact the IT support team for account and system issues.

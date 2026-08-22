@@ -1,0 +1,9 @@
+pypdf
+langchain
+langchain-core
+langchain-chroma
+langchain-huggingface
+chromadb
+sentence-transformers
+transformers
+torch
